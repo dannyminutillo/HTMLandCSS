@@ -1,0 +1,45 @@
+.title {text-align: center;
+	    font-weight: bold;
+	    font-size: 300%;
+		font-family: Avantgarde, sans-serif;
+		color: cyan}
+.title {border-style: solid;
+		border-color: gray;
+		border-width: 400%;
+		background-color: gray;}
+
+.title-soccer {font-weight: bold;
+			   font-size: 150%;
+			   font-family: Helvetica, sans-serif;
+			   color: black;
+			   width: 300px;
+			   height: 25px;
+			   box-sizing: border-box;
+			   text-align: center}
+
+.text-soccer {width: 300px;
+			  height: 100px;
+			  box-sizing: border-box;
+			  text-align: center;
+			  font-size: 90%}
+
+.photo-soccer {line-height: 900%}
+
+.law {display: flex;
+      flex-flow: row wrap;
+      justify-content: space-around}
+
+.law {position: relative;
+      top: -458px}
+
+.title-law {font-weight: bold;
+			font-size: 185%;
+			font-family: Helvetica, sans-serif;
+			color: black;
+			width: 300px;
+			height: 10px;
+			box-sizing: border-box;
+			text-align: center}
+
+			
+
